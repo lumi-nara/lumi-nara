@@ -8,14 +8,6 @@ _On a mission to prove that with the right structure, anyone can learn anything.
 
 </div>
 
-##### 🧠 My Story
-
-Four weeks ago, I was a complete beginner.  
-No CS degree, no bootcamp, no prior coding experience.  
-As of today, I’ve built a modular Python application that’s both expandable and maintainable.
-
-
-
 ##### ⚙️ How I Learn
 
 With a self-developed meta-learning framework that combines:
@@ -27,7 +19,7 @@ With a self-developed meta-learning framework that combines:
 
 ##### 🚀 What I'm Doing
 
-- Currently developing a **user-ready Python application** for image harmonization systems  
+- Currently developing a **user-ready, expandable & maintainable Python application** for image harmonization systems  
 - Creating **meta-frameworks** for accelerated skill acquisition, ensuring a continuous learning curve  
 - Writing **consistent documentation** that keeps both learning & work process aligned, transparent and easy to revisit. 
 
