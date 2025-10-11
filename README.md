@@ -28,7 +28,7 @@ With a self-developed meta-learning framework that combines:
 ##### 💭 My Principles
 
 - Code quality matters, even for beginners  
-- Tests aren’t optional — they’re learning tools  
+- Tests aren’t optional - they’re learning tools  
 - AI should amplify human thinking, not replace it  
 - The best way to learn is to build something real  
 
