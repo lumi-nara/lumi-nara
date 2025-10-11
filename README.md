@@ -57,3 +57,11 @@ Always curious, always learning, always documenting
 ✨ _“Build things that teach you.”_ ✨  
 
 </div>
+
+---
+
+<p align="center">
+  <sub><sup>Profile views (approximate)</sup></sub><br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lumi-nara.lumi-nara&left_color=gray&right_color=lightgray&left_text=Views" alt="Visitor Badge" />
+  <img src="https://img.shields.io/badge/Views-grey?style=flat-square&logo=github&logoColor=lightgray" alt="Static Badge" />
+</p>
